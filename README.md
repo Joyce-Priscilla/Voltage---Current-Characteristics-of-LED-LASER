@@ -1,4 +1,4 @@
-# Voltage---Current-Characteristics-of-LED/LASER
+<img width="1097" height="1600" alt="image" src="https://github.com/user-attachments/assets/d9c88e85-304d-4ad7-b47d-375ed8960e14" /># Voltage---Current-Characteristics-of-LED/LASER
 # Fiber Optic LED and LASER Characteristics
 
 ## AIM
@@ -59,19 +59,20 @@ Key points:
 
 ## TABULATION LED Characteristics (850 nm)
 
-<img width="1600" height="1211" alt="image" src="https://github.com/user-attachments/assets/c1a63d2e-6ed8-4faf-944d-ee573a3b4c61" />
-
 <img width="1200" height="1600" alt="Laser" src="https://github.com/user-attachments/assets/2c3bfdae-b491-4496-8090-f404c79241db" />
 
 ## TABULATION LASER Characteristics (1310 nm)
 
-<img width="1600" height="1481" alt="image" src="https://github.com/user-attachments/assets/fa243ecd-a511-4998-8cf4-facc66e20405" />
+<img width="856" height="1600" alt="image" src="https://github.com/user-attachments/assets/a128123a-b210-4811-916f-bad5b39985d7" />
+
 
 ---
 
 ## MODEL GRAPH
 
-<img width="1104" height="1534" alt="image" src="https://github.com/user-attachments/assets/6c0aa6a5-069c-4ca1-b86c-bd63dadb638d" />
+<img width="1097" height="1600" alt="image" src="https://github.com/user-attachments/assets/441cdf91-7809-4b06-9a3a-e5b57789f8b0" />
+
+
 
 <img width="979" height="1600" alt="image" src="https://github.com/user-attachments/assets/6e76f93c-a211-4a4b-af1a-3bcafab4207e" />
 
